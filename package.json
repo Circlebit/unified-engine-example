@@ -1,0 +1,25 @@
+{
+  "name": "unified-engine-example",
+  "version": "1.0.0",
+  "description": "This is a a Markdown File.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Circlebit/unified-engine-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Circlebit/unified-engine-example/issues"
+  },
+  "homepage": "https://github.com/Circlebit/unified-engine-example#readme",
+  "dependencies": {
+    "remark": "^14.0.2",
+    "unified-engine": "^10.0.1"
+  }
+}
